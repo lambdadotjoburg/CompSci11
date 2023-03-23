@@ -1,0 +1,1 @@
+This .txt file lives in an alternate directory of the python jupyter notebook file
